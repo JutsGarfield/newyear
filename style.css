@@ -122,7 +122,7 @@ body {
 }
 
 .first_year {
-  margin-right: 90px;
+  margin-right: 100px;
 }
 
 .new {
@@ -142,7 +142,7 @@ body {
     right: 635px;
   }
   100% {
-    right: 450px;
+    right: 735px;
     color: yellow;
   }
 }
